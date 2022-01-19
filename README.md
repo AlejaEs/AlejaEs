@@ -1,5 +1,5 @@
 <h2>¡¡Hola a todos!! Soy Alejandra 👋</h2>
-    <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="60%" />
+    <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="58%" />
 
 **Sobre mí**👩
 
@@ -11,6 +11,7 @@
 - Actualmente me encuentro estudiando el idioma Ingles también en la paltaforma de [Platzi English Academy](https://platzi.com/idioma-ingles/ "Platzi English Academy")
 
 🚀**Conéctate Conmigo**
+
 <a href="https://www.linkedin.com/in/alejandra-espinosa-jim%C3%A9nez-871b2255/">
   <img align="left" alt="Omar_BM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
