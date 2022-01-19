@@ -7,6 +7,7 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 - Actualmente me encuentro complementando mis estudios con los cursos que hay en la plataforma de [Platzi](https://platzi.com "Platzi")
 - Actualmente me encuentro estudiando el Ingles también en la plataforma de [Platzi English Academy](https://platzi.com/idioma-ingles/ "Platzi English Academy")
 - Actualmente no me encuentro laborando
+- Actualmente colaboro en un repositorio [Comandos de Git ](https://github.com/AlejaEs/git-cheat-sheet "Comandos de Git ") es un proyecto de una página web sencilla donde se muestran los comandos básicos que se maneja en Git.
 
 <h3>Intereses 😊</h3>
 
