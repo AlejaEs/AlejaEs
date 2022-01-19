@@ -26,8 +26,7 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 <a target="_blank" href="https://www.instagram.com/maleja880629/">
   <img align="left" alt="Omar_BM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
-
+<br><br>
 ⭐️ From [AlejaEs](https://github.com/AlejaEs)  &copy;2022
 
 
