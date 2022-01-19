@@ -1,10 +1,10 @@
 <h2>¡¡Hola a todos!! Soy Ale 👋</h2>
 Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información💻<br><br>
-    <img align="right" width="65%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+    <img align="right" width="60%"   alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
 **Sobre mí**👩
-- Actualmente me encuentro complementando mis estudios con los cursos en la plataforma de [Platzi](https://platzi.com "Platzi")
-- Actualmente me encuentro estudiando el idioma Ingles también en la paltaforma de [Platzi English Academy](https://platzi.com/idioma-ingles/ "Platzi English Academy")
+- Actualmente me encuentro complementando mis estudios con los cursos que hay en la plataforma de [Platzi](https://platzi.com "Platzi")
+- Actualmente me encuentro estudiando el Ingles también en la plataforma de [Platzi English Academy](https://platzi.com/idioma-ingles/ "Platzi English Academy")
 - Actualmente no me encuentro laborando
 
 **Intereses**
