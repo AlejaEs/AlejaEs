@@ -28,6 +28,6 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 </a>
 <br>
 
-⭐️ From [AlejaEs]&copy; (https://github.com/AlejaEs)
+⭐️ From [AlejaEs] &copy;2022 (https://github.com/AlejaEs)
 
 
