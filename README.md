@@ -7,9 +7,9 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 - Actualmente me encuentro estudiando el Ingles también en la plataforma de [Platzi English Academy](https://platzi.com/idioma-ingles/ "Platzi English Academy")
 - Actualmente no me encuentro laborando
 
-**Intereses**
+**Intereses**😊
 
-- 😊 Mis intereses son el desarrollo web, el desarrollo de cosas o app interesantes, útiles y accesibles.
+- Mis intereses son el desarrollo web, el desarrollo de cosas o app interesantes, útiles y accesibles.
 - También me interesa el mundo de la ciberseguridad 👩‍💻
 
 **Lenguajes y herramientas**👩‍💻
@@ -18,7 +18,7 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
 
-🚀**Conéctate Conmigo**
+🚀**Conéctate Conmigo!**
 
 <a target="_blank" href="https://www.linkedin.com/in/alejandra-espinosa-jim%C3%A9nez-871b2255/">
   <img align="left" alt="Omar_BM" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
