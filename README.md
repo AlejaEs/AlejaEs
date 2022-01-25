@@ -22,10 +22,10 @@ Estudiante del Tecnólogo en Análisis y desarrollo de sistemas de información�
 <h2 align="center">🚀Conéctate Conmigo!</h2>      
  <p align="center"> 
 <a target="_blank" href="https://www.linkedin.com/in/alejandra-espinosa-jim%C3%A9nez-871b2255/">
-  <img alt="Omar_BM" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/maleja880629/">
-  <img alt="Omar_BM" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 <br>
