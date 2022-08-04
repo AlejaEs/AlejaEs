@@ -27,7 +27,7 @@ Estudiante del Tecnólogo en Desarrollo de software y desarrollo Web💻<br><br>
 <a target="_blank" href="https://www.instagram.com/maleja880629/">
   <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/CodeGirlDev">
+<a target="_blank" href="https://twitter.com/CodeGirlDev/">
   <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
