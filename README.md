@@ -11,6 +11,7 @@ Estudiante del Tecnólogo en Desarrollo de software y desarrollo Web💻<br><br>
 <h3>Intereses 😊</h3>
 
 - Mis intereses son el desarrollo web, el desarrollo de cosas o app interesantes, útiles y accesibles.
+- Me interesa el mundo del testing. 
 - También me interesa el mundo de la ciberseguridad 👩‍💻
 
 <h3>Lenguajes y herramientas 👩‍💻</h3>
