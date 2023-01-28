@@ -24,7 +24,7 @@ Estudiante del Tecnólogo en Desarrollo de software y desarrollo Web💻<br><br>
 <a target="_blank" href="https://www.linkedin.com/in/alejandra-espinosa-jim%C3%A9nez-871b2255/">
   <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/maleja880629/">
+<a target="_blank" href="https://www.instagram.com/malejadev/">
   <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/CodeGirlDev/">
