@@ -13,6 +13,7 @@ Tecnóloga en Desarrollo de software y desarrollo Web💻<br><br>
 - Mis intereses son el desarrollo web, el desarrollo de cosas o app interesantes, útiles y accesibles.
 - Me interesa el mundo del testing. 
 - También me interesa el mundo de la ciberseguridad 👩‍💻
+- Me interesa el Diseño UX/UI
 
 <h3>Lenguajes y herramientas 👩‍💻</h3>
 
