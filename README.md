@@ -20,6 +20,7 @@ Tecnóloga en Desarrollo de software y desarrollo Web💻<br><br>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png"></code>
 <br>
 <h2 align="center">🚀Conéctate Conmigo!</h2>      
  <p align="center"> 
@@ -32,9 +33,12 @@ Tecnóloga en Desarrollo de software y desarrollo Web💻<br><br>
 <a target="_blank" href="https://twitter.com/CodeGirlDev/">
   <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a target="_blank" href="https://www.behance.net/malejadev">
+  <img alt="Aleja_E" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>     
 </p>
 <br>
 
-⭐️ From [AlejaEs](https://github.com/AlejaEs)  &copy;2022
+⭐️ From [AlejaEs](https://github.com/AlejaEs)  &copy;2024
 
 
