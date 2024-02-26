@@ -12,15 +12,15 @@ Tecnóloga en Desarrollo de software y desarrollo Web💻<br><br>
 
 - Mis intereses son el desarrollo web, el desarrollo de cosas o app interesantes, útiles y accesibles.
 - Me interesa el mundo del testing. 
-- También me interesa el mundo de la ciberseguridad 👩‍💻
 - Me interesa el Diseño UX/UI
+- También me interesa el mundo de la ciberseguridad 👩‍💻
 
 <h3>Lenguajes y herramientas 👩‍💻</h3>
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
-<code><img height="40" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png"></code>
+<code><img height="40" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo-thumbnail.png"></code>
 <br>
 <h2 align="center">🚀Conéctate Conmigo!</h2>      
  <p align="center"> 
